@@ -1,6 +1,6 @@
 # For Test
 
-cp /root/geth-linux-amd64-1.10.23-d901d853/keystore/UTC--2022-09-16T16-46-42.233370072Z--e686bf9b57cec541e0f46f2c0a41bc8836b9b270 /root/nulink
+cp /root/geth-linux-amd64-1.10.23-d901d853/keystore/UTC--2022-09-16T16-46-42.e686bf9b57cec541e0f46f2c0a41bc8836b9b270 /root/nulink
 
 
 chmod -R 777 /root/nulink
