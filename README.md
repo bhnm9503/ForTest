@@ -1,4 +1,4 @@
-# your
+# you
 
 cp / /root/nulink
 
