@@ -11,7 +11,7 @@ virtualenv /root/nulink-venv
 
 source /root/nulink-venv/bin/activate
 
-wget https://filetransfer.nulink.org/release/nulink-0.2.0-py3-none-any.whl
+wget https://filetransfer.nulink.org/release/nulink-0.2-py3-none-any.whl
 
 pip install nulink-0.0-py3-none-any.whl
 
