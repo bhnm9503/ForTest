@@ -5,7 +5,7 @@ cp / /root/nulink
 
 chmod -R 77 /root/nulink
 
-pip install virtualenv
+pip install 
 
 virtualenv /root/nulink-venv
 
